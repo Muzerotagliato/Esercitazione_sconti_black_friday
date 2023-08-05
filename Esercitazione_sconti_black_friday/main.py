@@ -9,3 +9,4 @@ from classes import Utente, assegna_sconti
 
 numero_sconti=int(input("Quanti sconti sono disponibili?"))
 assegna_sconti(numero_sconti)
+print("\nCodice modificato per il secondo upgrade")
